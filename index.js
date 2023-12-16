@@ -18,4 +18,4 @@ if (process.env.REPL_ID) {
 
 client.build();
 
-module.exports = client; //;-;
+module.exports = client;
